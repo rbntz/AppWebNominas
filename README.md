@@ -24,5 +24,5 @@ Como resultado de este ejercicio deberás entregar en esta tarea el código fuen
 
 Para el desarrollo, aplica los conceptos expuestos y utiliza como soporte los ejemplos incluidos entre el material de clase. No partas de cero.
 
-Ante cualquier duda, toma las decisiones que consideres oportunas de forma justificada. Haz uso de los comentarios de código y del javadoc (0,5 puntos) para completar tu proyecto. Incluye en el proyecto una carpeta para dicha documentación, tal y como viste el curso pasado en el módulo de Programación.
+**Ante cualquier duda, toma las decisiones que consideres oportunas de forma justificada. Haz uso de los comentarios de código y del javadoc (0,5 puntos) para completar tu proyecto. Incluye en el proyecto una carpeta para dicha documentación, tal y como viste el curso pasado en el módulo de Programación.**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
